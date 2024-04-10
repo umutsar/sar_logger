@@ -1,4 +1,5 @@
 # sar_logger
+# The responsibility is not mine. (Don't use against others!)
 
 •Python keylogger by umutsar...
 
